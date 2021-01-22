@@ -1,4 +1,5 @@
-Netlify (refactorizado a hooks en vez de class): https://hungry-austin-2de8ec.netlify.app/
+Netlify: https://app.netlify.com/sites/brave-pike-3ed54e/overview
+ADVERTENCIA: La sección de traducción solo funciona desde localhost:3000 debido a que es una llave de prueba, para probar esa función clonar el código y usarla desde un development server.
 
 Documentación:
 
