@@ -31,6 +31,9 @@ const Convert = ({ language, text }) => {
           params: {
             q: debouncedText,
             target: language.value,
+
+            // llave de prueba que solo funciona en localhost:3000
+
             key: 'AIzaSyCHUCmpR7cT_yDFHC98CZJy2LTms-IwDlM',
           },
         }
